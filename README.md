@@ -10,7 +10,7 @@ Mi experiencia incluye una pasantía de un año en Sanofi (Supply Chain Operatio
 * **Automatización:** Desarrollo de scripts en Python para optimizar flujos de datos y reportes internos.
 
 ### Stack Técnico:
-Python (Pandas, Scikit-learn, XGBoost), SQL, Power BI y Git.
+Python, R, SQL y Power BI.
 
 ---
 📩 [orlandinidaira@gmail.com](mailto:orlandinidaira@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dairaorlandini/)

@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería en Informática en la UP (Buenos Aires) y actualmente estoy trabajando en mi tesis de grado sobre aplicaciones de Machine Learning en el área de salud.
 
-Mi experiencia incluye una pasantía de un año en Sanofi (Supply Chain Operations) y un intercambio académico en la TH Nürnberg, Alemania.
+Mi experiencia incluye una pasantía de un año en Sanofi y un intercambio académico en la TH Nürnberg, Alemania.
 
 ### Proyectos y áreas de interés:
 * **Machine Learning & Salud:** Desarrollo de modelos de clasificación (XGBoost, Logistic Regression) con datos clínicos reales. Mi proyecto principal logró un 0.89 ROC-AUC procesando datos del hospital de Augsburg.

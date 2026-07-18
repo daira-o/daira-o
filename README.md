@@ -1,16 +1,46 @@
-## Hola, soy Daira 👋
+# Hi, I'm Daira 👋
 
-Estudiante de Ingeniería en Informática en la UP (Buenos Aires) y actualmente estoy trabajando en mi tesis de grado sobre aplicaciones de Machine Learning en el área de salud.
+I am an advanced Computer Engineering student at Universidad de Palermo, currently completing the final requirements of my degree.
 
-Mi experiencia incluye una pasantía de un año en Sanofi y un intercambio académico en la TH Nürnberg, Alemania.
+I am interested in Data Analytics, Business Intelligence, and applied Machine Learning. My work focuses on transforming data into clear reports, dashboards, and analytical models that support decision-making.
 
-### Proyectos y áreas de interés:
-* **Machine Learning & Salud:** Desarrollo de modelos de clasificación (XGBoost, Logistic Regression) con datos clínicos reales. Mi proyecto principal logró un 0.89 ROC-AUC procesando datos del hospital de Augsburg.
-* **Visualización de Datos:** Creación de dashboards interactivos en Power BI y Python, aplicados tanto a análisis de retail como a datos públicos de criminalidad en CABA.
-* **Automatización:** Desarrollo de scripts en Python para optimizar flujos de datos y reportes internos.
+I have professional experience from a one-year internship at Sanofi, where I worked on process automation, reporting, and data workflows. I also completed an academic exchange at TH Nürnberg, Germany, with coursework in Business Intelligence, Medical Data Science, and Data Analysis.
 
-### Stack Técnico:
-Python, R, SQL y Power BI.
+## What I work with
+
+- Data analysis and reporting
+- Power BI dashboards and KPI development
+- SQL and dimensional data modeling
+- Data cleaning and transformation with Python and Power Query
+- Process automation
+- Applied machine learning for healthcare data
+
+## Featured Projects
+
+### Global Retail BI Application
+
+Interactive Power BI report for analyzing revenue, sales volume, geographic performance, and revenue opportunity gaps across the United States, Germany, and Japan.
+
+**Tools:** Power BI, Power Query, DAX, Star Schema
+
+### Menopause Transition Stage Classification
+
+Machine learning pipeline for classifying menopause transition stages using clinical and demographic data from the SWAN study.
+
+**Tools:** Python, Pandas, scikit-learn, Optuna, SHAP
+
+### Cross-Modal Myoma Segmentation
+
+Research project on weakly supervised uterine myoma segmentation using MRI and ultrasound images.
+
+**Tools:** Python, PyTorch, Attention U-Net, Medical Imaging
+
+## Technical Skills
+
+**Data and BI:** SQL, Power BI, Power Query, DAX, Excel  
+**Programming:** Python, R  
+**Libraries:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib  
+**Tools:** Git, GitHub, Jupyter, Streamlit
 
 ---
 📩 [orlandinidaira@gmail.com](mailto:orlandinidaira@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dairaorlandini/)
